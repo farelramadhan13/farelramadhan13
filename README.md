@@ -95,7 +95,6 @@ Hi! I am **Farel Ramadhan**, a student developer from Indonesia 🇮🇩
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/farelramadhan13/farelramadhan13/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
 
-  OPSIONAL — Kontak (isi lalu hapus tanda komentar)
 
 ### 📫 Connect
 
