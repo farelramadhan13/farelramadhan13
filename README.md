@@ -2,7 +2,7 @@
 
 <!-- Typing banner (readme-typing-svg) -->
 <a href="https://github.com/farelramadhan13">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I+am+Farel+Ramadhan+%F0%9F%91%8B;Software+Engineer+💻" alt="Typing banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I+am+Farel+Ramadhan+%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB" alt="Typing banner" />
 </a>
 
 <br/>
@@ -84,7 +84,7 @@ Hi! I am **Farel Ramadhan**, a student developer from Indonesia 🇮🇩
 ### 📊 GitHub Stats
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=farelramadhan13&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=farelramadhan13&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"/>
 </div>
 
 <br clear="both">
@@ -103,6 +103,6 @@ Hi! I am **Farel Ramadhan**, a student developer from Indonesia 🇮🇩
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadfareldwiramadhan1397@gmail.com)
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
