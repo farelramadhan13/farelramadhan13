@@ -2,7 +2,7 @@
 
 <!-- Typing banner (readme-typing-svg) -->
 <a href="https://github.com/farelramadhan13">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I+am+Farel+Ramadhan+%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB" alt="Typing banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I+am+Farel+Ramadhan+%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB" alt="Typing banner" />
 </a>
 
 <br/>
@@ -83,9 +83,13 @@ Hi! I am **Farel Ramadhan**, a student developer from Indonesia 🇮🇩
 
 ### 📊 GitHub Stats
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=farelramadhan13&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=farelramadhan13&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=farelramadhan13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=html,css" alt="Top Languages" />
+</p>
+
 
 <br clear="both">
 
