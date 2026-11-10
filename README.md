@@ -2,7 +2,7 @@
 
 <!-- Typing banner (readme-typing-svg) -->
 <a href="https://github.com/farelramadhan13">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I+am+Farel+Ramadhan+%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB" alt="Typing banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I+am+Farel+Ramadhan+%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB;Backend+%26+Full-Stack+Developer" alt="Typing banner" />
 </a>
 
 <br/>
@@ -11,6 +11,10 @@
 ![Country](https://img.shields.io/badge/Indonesia-🇮🇩-F7768E?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Backend-9ECE6A?style=for-the-badge)
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=farelramadhan13&color=7AA2F7&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/farelramadhan13?style=for-the-badge&color=9ECE6A&label=FOLLOWERS)
 
 </div>
 
@@ -22,6 +26,7 @@ Hi! I am **Farel Ramadhan**, a student developer from Indonesia 🇮🇩
 
 - 🎓 I study **Computer Engineering Technology** at **Politeknik Negeri Semarang (Polines)**
 - 💻 I build full-stack web apps with **Laravel** and **Tailwind**
+- 🧠 Currently exploring **Go**, **Linux**, **Networking**, and **Neovim**
 - 🏫 I started with real web projects in vocational school (**SMK**) before university
 
 ---
@@ -30,7 +35,7 @@ Hi! I am **Farel Ramadhan**, a student developer from Indonesia 🇮🇩
 
 | Topic | What I am doing |
 |-------|-----------------|
-| 🐹 **Go (Golang)** | Starting from the basics — now on **goroutines** |
+| 🐹 **Go (Golang)** | Building CLI projects — now on **goroutines** |
 | 🐧 **Linux** | Ubuntu on WSL, terminal workflow, processes, memory & resources |
 | 🌐 **Networking** | A phase-by-phase roadmap: OSI/TCP-IP → DNS/HTTP/TLS → Kubernetes networking |
 | ⌨️ **Neovim** | Moving from Vim to Neovim (NvChad) with LSP for Go |
@@ -66,10 +71,6 @@ Hi! I am **Farel Ramadhan**, a student developer from Indonesia 🇮🇩
 ![NvChad](https://img.shields.io/badge/NvChad-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
 
-<!-- ### ☁️ Deployment -->
-
-<!-- ![aaPanel](https://img.shields.io/badge/aaPanel-20A53A?style=flat-square) -->
-
 #### 🔐 Security & Networking
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
@@ -83,14 +84,36 @@ Hi! I am **Farel Ramadhan**, a student developer from Indonesia 🇮🇩
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=farelramadhan13&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=farelramadhan13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=html,css" alt="Top Languages" />
-</p>
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=farelramadhan13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=farelramadhan13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=html,css" alt="Top Languages" />
 
+<br/>
 
+<img height="165" src="https://streak-stats.demolab.com/?user=farelramadhan13&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+
+</div>
+
+### ⏱️ Coding Activity
+
+<div align="center">
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farelramadhan13&theme=tokyonight&utcOffset=7" alt="Productive Time" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=farelramadhan13&theme=tokyonight" alt="Most Commit Language" />
+
+ <br/>
+
+<!-- Plain contribution graph (no animation / decoration) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://gitcolors.vercel.app/api/svg?username=farelramadhan13&preset=github&theme=dark&animate=false&emptyColor=neutral" />
+  <source media="(prefers-color-scheme: light)" srcset="https://gitcolors.vercel.app/api/svg?username=farelramadhan13&preset=github&theme=light&animate=false&emptyColor=neutral" />
+  <img width="98%" alt="GitHub contribution graph" src="https://gitcolors.vercel.app/api/svg?username=farelramadhan13&preset=github&theme=dark&animate=false&emptyColor=neutral" />
+</picture>
+
+</div>
+
+<!-- Contribution arcade (auto-generated every 12h via GitHub Actions) -->
 <br clear="both">
 
 <picture data-importer="pacman">
@@ -99,6 +122,7 @@ Hi! I am **Farel Ramadhan**, a student developer from Indonesia 🇮🇩
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/farelramadhan13/farelramadhan13/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
 
+---
 
 ### 📫 Connect
 
@@ -108,4 +132,3 @@ Hi! I am **Farel Ramadhan**, a student developer from Indonesia 🇮🇩
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
-
